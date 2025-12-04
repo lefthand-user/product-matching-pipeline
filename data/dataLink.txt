@@ -1,0 +1,21 @@
+# BetterBasket Assessment Dataset
+
+The full raw and cleaned datasets are not included in the repository due to size limitations.
+
+Please download all required data files from the following Google Drive folder:
+
+**Download dataset (Google Drive):**  
+https://drive.google.com/drive/folders/1P5byVC6wsq_opqS50NMOjTvyKtihfJzb?usp=sharing
+
+## Files included:
+- `grocery_store_a_raw_data.xlsx`
+- `grocery_store_b_raw_data.xlsx`
+- `grocery_store_a_clean_final.xlsx`
+- `grocery_store_b_clean_final.xlsx`
+- `Final_matches.xlsx`
+
+## How to use
+After downloading, place all files into the local `data/` directory:
+
+
+

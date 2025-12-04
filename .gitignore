@@ -208,5 +208,3 @@ __marimo__/
 
 # OpenAI / Azure OpenAI credentials
 openai_creds.yaml
-
-.venv/
